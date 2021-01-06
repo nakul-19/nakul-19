@@ -1,4 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-19" alt="nakul-19" /> </p>
+
 #### I'm Nakul Sharma, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech. <br>  I love Competitive Programming and Android Development. 
  <br>
 <img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
