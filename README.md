@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nakul-19" alt="nakul-19" /> </p>
 
-#### I'm Nakul Sharma, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech. <br>  I am an Android Developer as well as a Competitive Programmer, obsessed with the idea to keep on improving myself.
+#### I'm Nakul Sharma, Student at 👨‍💻 JSSATE Noida Pursuing B.Tech. <br>  I am an Android Developer as well as a Competitive Programmer, obsessed with the idea of continuously improving myself.
  <br>
 <img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
 
