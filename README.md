@@ -7,8 +7,8 @@
 <img align="right" alt="GIF" src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" width="400px" />
 
 ## 🧐 About
+- 🏢  I'm currently SDE Intern @ [Groww](https://groww.in/).
 - 🔭  I'm Android Lead @ [GDSC JSS](https://www.dscjss.in/).
-- 🏢  I'm currently Android Intern @ [WeSkill](https://weskill.co.in/).
 - 🏄‍  I like to explore a new angle in existing ideas. 
 - ✨  I love to build Android applications based on unique ideas.
 - 😄  I have max rating of 1999 (4🌟) at Codechef.
